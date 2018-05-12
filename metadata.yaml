@@ -1,0 +1,24 @@
+_repo: Korven-kaikujaHengellisi--lauluja_36019
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jaakkola, Efraim
+    gutenberg_agent_id: '38031'
+    url: http://www.gutenberg.org/2009/agents/38031
+description: ''
+gutenberg_issued: '2011-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36019'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Poetry'
+title: 'Korven kaikuja: Hengellisiä lauluja'
+url: http://www.gutenberg.org/ebooks/36019
