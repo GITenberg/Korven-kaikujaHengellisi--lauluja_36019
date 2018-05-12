@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38031'
     url: http://www.gutenberg.org/2009/agents/38031
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36019#Korven-kaikujaHengellisi--lauluja
 gutenberg_issued: '2011-05-02'
 gutenberg_type: Text
 identifiers:
